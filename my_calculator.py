@@ -14,7 +14,7 @@ class colors_and_fonts:
     all_clear_button_color = '#CB6277'
     font_color = '#BBCFD4'
     screen_color = '#D8E3E4'
-    screen_result_color = '#D7E3E4'
+    screen_result_color = '#1E0F1C'
 
     # Fonts:
     digits_font_style = ('Century Gothic', 16)
